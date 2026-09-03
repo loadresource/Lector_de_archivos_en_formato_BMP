@@ -1,0 +1,1 @@
+# Lector_de_archivos_en_formato_BMP
