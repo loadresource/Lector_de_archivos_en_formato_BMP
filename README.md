@@ -12,4 +12,5 @@ Archivos esperados:
 - test.bmp // imagen de prueba provista en este mandato
 - bmp.c
 - bmp.h
+
 Puntos extras: Agrega la funcionalidad de invertir horizontalmente la imágen para agregar un efecto espejo
