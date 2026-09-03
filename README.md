@@ -5,12 +5,12 @@ Partiendo del código hecho en clases, para cargar mediante código C una imagen
 La descripción técnica de las imágenes contenidas en archivo en formato BMP puede ser vista en este enlace: https://en.wikipedia.org/wiki/BMP_file_format
 
 Archivos esperados:
-- Makefile
-- main.c
-- pintor.c  // Código responsable de pintar en pantalla los pixeles leídos del archivo de imagen BMP
-- pintor.h
-- test.bmp // imagen de prueba provista en este mandato
-- bmp.c
-- bmp.h
+  - Makefile
+  - main.c
+  - pintor.c  // Código responsable de pintar en pantalla los pixeles leídos del archivo de imagen BMP
+  - pintor.h
+  - test.bmp // imagen de prueba provista en este mandato
+  - bmp.c
+  - bmp.h
 
 Puntos extras: Agrega la funcionalidad de invertir horizontalmente la imágen para agregar un efecto espejo
